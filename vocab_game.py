@@ -27,7 +27,7 @@ def show_result_dialog(ans1, ans2):
   score = 0
 
 u_ans1 = ans1.strip().lower()
- u_ans2 = ans2.strip().lower()
+u_ans2 = ans2.strip().lower()
 
 # ตรวจข้อ 1
 if u_ans1 == "apple":
